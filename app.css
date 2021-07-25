@@ -18,7 +18,8 @@ body {
 }
 
 .container {
-    width:95vw;
+    width:75vw;
+    min-width:325px;
     height:95vh;
     background-color:white;
     align-self: center;
